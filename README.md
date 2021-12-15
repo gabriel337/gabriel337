@@ -2,10 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel337&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel337" /> </p>
 
-- 👀 I’m interested in VR & Machine Learning
-- 🌱 I’m currently learning in Holberton School of programming the foundations of programming
+- 👀 I’m interested in VR & FullStack
+- 🌱 I’m currently learning Software Engineering in Holberton School Puerto Rico
 - 💞️ I’m looking to collaborate on video games in Unity if anyone is interested
-- 📫 How to reach me: g.david.lopezruiz@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
