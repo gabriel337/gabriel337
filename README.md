@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gabriel337
+<h1 align="center">Hi 👋, I'm Gabriel Lopez</h1>
+
 - 👀 I’m interested in VR & Machine Learning
 - 🌱 I’m currently learning in Holberton School of programming the foundations of programming
 - 💞️ I’m looking to collaborate on video games in Unity if anyone is interested
