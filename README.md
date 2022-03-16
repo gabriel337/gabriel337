@@ -19,6 +19,7 @@
 <a href="https://www.vagrantup.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                                                                                                                      
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel337&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabriel337" /></p>  
 
