@@ -19,12 +19,19 @@
 <a href="https://www.vagrantup.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                                                                                                                      
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                                                                                                                     
+                                                                                                             
+                                                                                                              
+   ## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel337&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabriel337" /></p>  
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel337&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabriel337" width=400 height=180/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel337&show_icons=true&theme=radical" alt="gabriel337" /></p>
-                                                                                                                                      <!---
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel337&show_icons=true&theme=radical" alt="gabriel337" width=400 height=180/></p>
+
+</br></br></br></br></br></br></br></br>
+ <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel337&theme=radical" alt="gabriel337" width= 400 height=150/> </p>
+</br>
+
 gabriel337/gabriel337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
