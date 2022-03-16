@@ -20,8 +20,20 @@
 <a href="https://www.vagrantup.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                                                                                                                     
-                                                                                                             
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                                                             <h3>My latest posts</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/pulse/concept-recursion-gabriel-l%C3%B3pez-ruiz/"><b>Concept Of Recursion</b></a><br/><i>Mirror Mirror</i></li>
+                                                                                                                                         
+<li><a href="https://www.linkedin.com/pulse/differences-between-static-dynamic-libraries-gabriel-l%C3%B3pez-ruiz/"><b>Differences Between Static And Dynamic Libraries</b></a><br/><i>Too many libraries out there</i></li>
+  
+ <li><a href="https://www.linkedin.com/pulse/what-happens-when-you-type-ls-l-c-shell-gabriel-l%C3%B3pez-ruiz/"><b>What Happens When You Yype `ls -l *.c`​ In The Shell</b></a><br/><i>Getting out of that shell</i></li>
+                                                                                                               <li><a href="https://www.linkedin.com/pulse/c-static-libraries-gabriel-l%C3%B3pez-ruiz/"><b>C Static Libraries</b></a><br/><i>Nothing better than a good old library</i></li>
+ 
+ <li><a href="https://www.linkedin.com/pulse/what-gcc-does-do-gabriel-l%C3%B3pez-ruiz/"><b>What Is GCC And What Does It Do?</b></a><br/><i>Starting out with C language</i></li>
+</ul>
+
+
+                                                                                                                                                     
                                                                                                               
    ## &#x1f4c8; GitHub Stats
 
