@@ -1,26 +1,61 @@
-<h1 align="center">Hi 👋, I'm Gabriel Lopez</h1>
+<h1 align="center">Hi there, I'm Gabriel López <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h3 align="center"><a href="mailto:g.david.lopezruiz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a href='https://github.com/gabriel337/gabriel337/blob/main/Gabriel_Lopez_Resume.PDF'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/gabriel-l%C3%B3pez-ruiz-4312b792/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
+</h3>
+<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/>
+<li>🔭 I’m currently on the third Trimester of my foundations year at Holberton School PR <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
+
+<h3>Languages and tools that I have been learning:</h3>
+
+<a href="https://github.com/gabriel337/holbertonschool-low_level_programming">
+  <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
+</a>
+<a href="https://github.com/gabriel337/holbertonschool-higher_level_programming">
+  <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+</a>
+<a href="https://github.com/gabriel337/holbertonschool-higher_level_programming">
+  <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</a>
+<a href="https://github.com/gabriel337/holbertonschool-higher_level_programming">
+  <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+<a href="https://github.com/gabriel337/holbertonschool-higher_level_programming">
+  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+<a href="https://github.com/gabriel337/holbertonschool-higher_level_programming">
+  <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
+</a>
+<a href="https://github.com/gabriel337/">
+  <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</a>
+<a href="https://github.com/gabriel337/holberton-system_engineering-devops">
+  <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+</a>
+<br><br><br>
+
+<h3 align="center">Most used Repositories</h3>
+
+| Repository | Description |
+| --- | --- |
+| [ holbertonschool-higher_level_programming](https://github.com/gabriel337/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
+| [ holbertonschool-low_level_programming](https://github.com/gabriel337/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [ holbertonschool-system_engineering-devops](https://github.com/gabriel337/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+
+<h3 align="center"><br>Major projects worked on at school, in order:</h3> 
+  
+| Project name | Description |
+| --- | --- |
+|[Printf](https://github.com/gabriel337/printf)| This program is designed to mimic the printf function in C.|
+|[Simple_Shell](https://github.com/gabriel337/simple_shell)| This program is designed to mimic the abilities of a simple shell. |
+|[Monty](https://github.com/gabriel337/monty) | Stacks, Queues - LIFO, FIFO |
+|[AirBnB Clone](https://github.com/gabriel337/AirBnB_clone)| Project in process, the goal is to make a complete web application, integrating MySQL storage, a back-end JSON API, and front-end interface in a clone of AirBnB. And a console interpreter to work with the classes and interact with the DB and JSON storages|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel337&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel337" /> </p>
 
-- 👀 I’m interested in VR & FullStack
-- 🌱 I’m currently learning Software Engineering in Holberton School Puerto Rico
-- 💞️ I’m looking to collaborate on video games in Unity if anyone is interested
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.linkedin.com/in/gabriel-l%C3%B3pez-ruiz-4312b792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lopez" height="30" width="40" /></a>
-<a href="https://twitter.com/gdlopezruiz"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" height="30" width="40" /></a>
 </p>
-
-### Languages and Tools:
-
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://www.vagrantup.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                                                             <h3>My latest posts</h3>
+              <h3>My latest posts</h3>
 <ul>
   <li><a href="https://www.linkedin.com/pulse/concept-recursion-gabriel-l%C3%B3pez-ruiz/"><b>Concept Of Recursion</b></a><br/><i>Mirror Mirror</i></li>
                                                                                                                                          
