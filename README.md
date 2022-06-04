@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gabriel López <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
 <h3 align="center"><a href="mailto:g.david.lopezruiz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='https://github.com/gabriel337/gabriel337/blob/main/Gabriel_Lopez_Resume.PDF'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
+<a href='https://github.com/gabriel337/gabriel337/blob/main/Gabriel-Resume.pdf'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/gabriel-l%C3%B3pez-ruiz-4312b792/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </h3>
 <li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/>
