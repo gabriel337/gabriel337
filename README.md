@@ -3,13 +3,19 @@
 <a href='https://github.com/gabriel337/gabriel337/blob/main/Gabriel-Resume.pdf'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/gabriel-l%C3%B3pez-ruiz-4312b792/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </h3>
-<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/>
-<li>🔭 I’m currently on the third Trimester of my foundations year at Holberton School PR <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
+<li> :seedling: I’m currently specializing in VR/AR in Holberton School Puerto Rico </li><br/>
+<li>🔭 Graduated from my foundations year at Holberton School PR <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
 
 <h3>Languages and tools that I have been learning:</h3>
 
 <a href="https://github.com/gabriel337/holbertonschool-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
+</a>
+<a href="https://github.com/gabriel337/holbertonschool-csharp">
+  <img align="left" alt="C#" width="50px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" />
+</a>
+<a href="https://github.com/luiscolon0426/SIM">
+  <img align="left" alt="C" width="70px" src="https://www.zend.com/sites/default/files/image/2019-09/logo-mongodb.jpg" />
 </a>
 <a href="https://github.com/gabriel337/holbertonschool-higher_level_programming">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -57,7 +63,9 @@
 </p>
               <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/pulse/concept-recursion-gabriel-l%C3%B3pez-ruiz/"><b>Concept Of Recursion</b></a><br/><i>Mirror Mirror</i></li>
+ <li><a href="https://www.linkedin.com/pulse/augmented-reality-virtual-developer-gabriel-l%C3%B3pez-ruiz/"><b>Augmented Reality & Virtual Reality Developer</b></a><br/><i>Everything can be virtual</i></li> 
+  
+ <li><a href="https://www.linkedin.com/pulse/concept-recursion-gabriel-l%C3%B3pez-ruiz/"><b>Concept Of Recursion</b></a><br/><i>Mirror Mirror</i></li>
                                                                                                                                          
 <li><a href="https://www.linkedin.com/pulse/differences-between-static-dynamic-libraries-gabriel-l%C3%B3pez-ruiz/"><b>Differences Between Static And Dynamic Libraries</b></a><br/><i>Too many libraries out there</i></li>
   
