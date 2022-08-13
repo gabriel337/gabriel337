@@ -55,7 +55,8 @@
 |[Printf](https://github.com/gabriel337/printf)| This program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/gabriel337/simple_shell)| This program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/gabriel337/monty) | Stacks, Queues - LIFO, FIFO |
-|[AirBnB Clone](https://github.com/gabriel337/AirBnB_clone)| Project in process, the goal is to make a complete web application, integrating MySQL storage, a back-end JSON API, and front-end interface in a clone of AirBnB. And a console interpreter to work with the classes and interact with the DB and JSON storages|
+|[AirBnB Clone](https://github.com/gabriel337/AirBnB_clone)| Complete web application, integrating MySQL storage, a back-end JSON API, and front-end interface in a clone of AirBnB. And a console interpreter to work with the classes and interact with the DB and JSON storages|
+|[SIM](https://github.com/luiscolon0426/SIM)| Portfolio proyect, SIM is a Sales and Inventory Management application where you can manage Users and Data. It is a POS that has a feature that will let the user know when a product is low on stock or is out of stock|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel337&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel337" /> </p>
 
