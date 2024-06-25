@@ -3,7 +3,7 @@
 <a href='https://github.com/gabriel337/gabriel337/blob/main/Gabriel-Resume.pdf'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/gabriel-l%C3%B3pez-ruiz-4312b792/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </h3>
-<li> :seedling: I’m currently specializing in VR/AR in Holberton School Puerto Rico </li><br/>
+
 <li>🔭 Graduated from my foundations year at Holberton School PR <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
 
 <h3>Languages and tools that I have been learning:</h3>
